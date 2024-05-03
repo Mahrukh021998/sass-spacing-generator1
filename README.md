@@ -3,7 +3,7 @@ This will help you to generate several spacing classes for margin and padding.
 
 Eg: `'mt-0'` , `'pl-5'`
 
-
+mahrukh fatima
 ### How to Use
 Download/Clone this [spacing-generator.scss](https://github.com/vineethtrv/sass-spacing-generator/blob/master/spacing-generator.scss)  file and include it in your sass project.
 
